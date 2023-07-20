@@ -15,4 +15,4 @@ The model is then compiled with the Adam optimizer, sparse categorical cross-ent
 Finally, the model is used to make predictions on the test images, and the predictions are stored in the predictions variable. This program demonstrates a basic image recognition pipeline using TensorFlow and Keras for digit recognition, achieving an accuracy of around 97% on the test data.
 
 ## Purpose
-This short snippet of code is used for my own learning journey and I plan to publish most all content related to my machine learning journey
+This short snippet of code is used for my own learning journey and I plan to publish most all content related to my machine learning journey.
