@@ -1,6 +1,7 @@
 # Machine Learning Research project (1).
  Credits to Deep Learning basics: Introduction and Overview
- By Lex Fridman
+ by Lex Fridman.
+ 
  To watch full video: https://youtu.be/O5xeyoRL95U
 
 # Results
