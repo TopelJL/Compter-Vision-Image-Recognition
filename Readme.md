@@ -1,4 +1,4 @@
-# Machine Learning Research project (1).
+# Machine Learning Research Project (1).
  Credits to Deep Learning basics: Introduction and Overview
  by Lex Fridman.
  
