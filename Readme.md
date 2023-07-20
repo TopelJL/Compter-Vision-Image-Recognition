@@ -19,7 +19,11 @@ This short snippet of code is used for my own learning journey and I plan to pub
 
 ## Notes
 MNIST Dataset: The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems. 
+
 Keras: Keras is an open-source library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
+
 ReLu: ReLU activation function is an activation function defined as the positive part of its argument: where x is the input to a neuron.
+
 Sparse categorical cross-entropy: An extension of the categorical cross-entropy loss function that is used when the output labels are represented in a sparse matrix format. In a sparse matrix format, the labels are represented as a single index value rather than a one-hot encoded vector.
+
 Epoch: The one entire passing of training data through the algorithm.
